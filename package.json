@@ -1,0 +1,12 @@
+{
+    "name": "squrl.ioclient",
+    "version": "0.0.1",
+    "license": "ToKill",
+    "repository": {},
+    "description": "squrl.io chrome extension",
+    "dependencies": {
+        "bufferutil": "^4.0.5",
+        "utf-8-validate": "^5.0.7",
+        "ws": "^8.8.1"
+    }
+}
